@@ -1,8 +1,2 @@
-You can use the player id for kicking, banning,... the player.  
-See all the ids with /list_ids  
-Use   
-/kick_id <ID> <REASON>  
-/xban_id <ID> <REASON>  
-/teleport <ID>  
-/watch <ID>  
-to kick, ban, teleport to or watch the player.  
+You can use every command with the prefix "id" to use an player id as a param.  
+(e.g. /idkick 1)  
